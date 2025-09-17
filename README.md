@@ -1,7 +1,9 @@
-# PDF Facture Generator
+# GenerateQuestPDF
 
-This is a **showcase project** demonstrating the capabilities of the [QuestPDF]([https://www.questpdf.com/](https://www.questpdf.com/)) library.  
-It generates **personalized invoices (factures)** as PDF files using **C#**.
+This is a simple **.NET console application** that generates **sample invoices (factures)** as PDF files using [QuestPDF](https://www.questpdf.com/).
+
+This is a **showcase project** demonstrating the capabilities of QuestPDF. It generates **personalized invoices (factures)** using **C#** and shows how you can **build and generate fully customized PDFs** for any purpose, such as invoices, reports, tickets, or certificates.
+
 
 ---
 
@@ -23,4 +25,5 @@ This project can be adapted to generate **customized PDFs** for any purpose (inv
 ---
 
 ## Project Structure
+
 
